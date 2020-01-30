@@ -1,3 +1,6 @@
+Status:
+https://dev.azure.com/jacekdoniec/Test2/_apis/build/status/j-programming.pipelines-java?branchName=master&jobName=Job
+
 
 # Contributing
 
