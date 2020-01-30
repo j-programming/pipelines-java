@@ -1,5 +1,5 @@
 Status:
-https://dev.azure.com/jacekdoniec/Test2/_apis/build/status/j-programming.pipelines-java?branchName=master&jobName=Job
+[![Build Status](https://dev.azure.com/jacekdoniec/Test2/_apis/build/status/j-programming.pipelines-java?branchName=master)](https://dev.azure.com/jacekdoniec/Test2/_build/latest?definitionId=2&branchName=master)
 
 
 # Contributing
