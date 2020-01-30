@@ -5,8 +5,9 @@ Status:
 |---|:-----:|
 |**Windows**|[![Build & Test][win-build-badge]][win-build]| 
 
-[win-build-badge]: https://dev.azure.com/jacekdoniec/Test2/_apis/build/status/j-programming.pipelines-java
-[win-build]: https://dev.azure.com/jacekdoniec/Test2/_build/latest?definitionId=2&
+[win-build-badge]: https://dev.azure.com/jacekdoniec/Test2/_apis/build/status/j-programming.pipelines-java?branchName=master
+[win-build]: https://dev.azure.com/jacekdoniec/Test2/_build/latest?definitionId=2&branchName=master
+
 
 # Contributing
 
